@@ -1,4 +1,3 @@
 # CS16_VGUI_Test
 
-Hook VGUI Panel
-Test
+Пример хука VGUI Панели в cs 1.6
